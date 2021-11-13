@@ -50,11 +50,11 @@ a {
 .experience {
     display: flex;
     margin-bottom: 2em;
-    &__date {
+}
+.experience__date {
         min-width: 185px;
         margin-bottom: 1em;
     }
-    &__name {
+.experience__name {
         font-weight: bold;
     }
-}
